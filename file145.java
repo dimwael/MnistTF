@@ -6,11 +6,15 @@ public class Dog {
    String color;
 
    void barking() {
+      System.out.println("hab");
    }
 
    void hungry() {
    }
 
    void sleeping() {
+   }
+   
+   void eating() {
    }
 }
