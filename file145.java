@@ -6,6 +6,7 @@ public class Dog {
    String color;
 
    void barking() {
+      System.out.println("habhab");
    }
 
    void hungry() {
