@@ -15,9 +15,14 @@ public class Dog {
    void barking() {
    }
 
-   void hungry() {
+   public void hungry() {
    }
 
-   void sleeping() {
+   public void sleeping() {
+   }
+   
+   public void hey ()
+   {
+      System.out.println("testing");
    }
 }
