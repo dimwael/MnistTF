@@ -13,4 +13,28 @@ public class Cat {
 
    void sleeping() {
    }
+   void meowing() {
+   }
+
+   void hungry() {
+   }
+
+   void sleeping() {
+   }
+   void meowing() {
+   }
+
+   void hungry() {
+   }
+
+   void sleeping() {
+   }
+   void meowing() {
+   }
+
+   void hungry() {
+   }
+
+   void sleeping() {
+   }
 }
