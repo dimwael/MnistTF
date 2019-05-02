@@ -13,4 +13,28 @@ public class bird {
 
    void sleeping() {
    }
+   void barkingPerhaps() {
+   }
+
+   void hungry() {
+   }
+
+   void sleeping() {
+   }
+   void barkingPerhaps() {
+   }
+
+   void hungry() {
+   }
+
+   void sleeping() {
+   }
+   void barkingPerhaps() {
+   }
+
+   void hungry() {
+   }
+
+   void sleeping() {
+   }
 }
