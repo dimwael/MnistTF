@@ -1,1 +1,2 @@
-class filej1{}
+class filej1{
+public int g = 4;}
