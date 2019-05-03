@@ -5,6 +5,11 @@ public class Dog {
 
    void barking() {
    }
+   void barkings() {
+   }
+      void barkingcc() {
+   }
+
 
    void hungry() {
    }
