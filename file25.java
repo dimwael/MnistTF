@@ -4,13 +4,4 @@ public class bird {
    String breed;
    int age;
    String color;
-
-   void barkingPerhaps() {
-   }
-
-   void hungry() {
-   }
-
-   void sleeping() {
-   }
 }
